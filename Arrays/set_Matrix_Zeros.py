@@ -54,7 +54,7 @@ matrix = [
     [1, 1, 1]
 ]
 
-setZeroes(matrix)
+result = setZeroes(matrix)
 
-for row in matrix:
+for row in result:
     print(row)
